@@ -1,6 +1,6 @@
-<h1 align="center">Hello Lovely People👋 </h1>
+<h1 align="center">Hello Lovely People👋, I'm Nandini Loomba</h1>
 
-<h5> My name is Nandini Loomba and currently I'm a student, pursuing Bachelor of Technology in Computer Science from IIITDM Kurnool. I'm interested in Data Science and I love to do competitive programming. I love to explore different tech stacks and solve complex problem-solving. You can connect with me for any opportunity or pair programming.<h5>
+<h5> Currently I'm a student, pursuing Bachelor of Technology in Computer Science from IIITDM Kurnool. I'm interested in Data Science and I love to do competitive programming. I love to explore different tech stacks and solve complex problem-solving. You can connect with me for any opportunity or pair programming.<h5>
   
 <p>
 
