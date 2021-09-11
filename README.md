@@ -14,7 +14,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/loombanandini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loombanandini" height="30" width="40" /></a>
-<a href="nandiniloomba@gmail.com" target="blank"> <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" alt="loombanandini" height="30" width="40"/></a>
+<a href="https://nandiniloomba@gmail.com" target="blank"> <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" alt="loombanandini" height="30" width="40"/></a>
 <a href="https://linkedin.com/in/nandiniloomba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandiniloomba" height="30" width="40" /></a>
 <a href="https://instagram.com/nandini31_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandini31_" height="30" width="40" /></a>
 </p>
