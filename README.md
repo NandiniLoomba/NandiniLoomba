@@ -1,5 +1,6 @@
 <h1 align="center">Hello World 👋, I'm Nandini Loomba</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NandiniLoomba&label=Profile%20views&color=blueviolet&style=flat" alt="Nandini" /> </p>
+<p>
 <h5> I'm a student, pursuing Bachelor of Technology in Computer Science from IIITDM Kurnool. I'm interested in Data Science and I love to do competitive programming. I love to explore different tech stacks and solve complex problem-solving. You can connect with me for any opportunity or pair programming.<h5>
   
 <p>
