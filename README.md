@@ -2,8 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NandiniLoomba&label=Profile%20views&color=ff69b4&style=flat" alt="Nandini" /> </p>
 <br/>
 
-- 👨‍💻 I’m looking for Internship Opportunities in Software Engineering
-- 🎀 Currently working on an E-commerce Website using MERN Stack
+- 👨‍💻 I’m looking for full-time SDE roles for freshers.
+- 🎀 Currently diving deep in the deep learning domain.
 - 📫 How to reach me **nandiniloomba@gmail.com**
 
   
